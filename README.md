@@ -20,7 +20,7 @@ The nPYc Toolbox is built upon Python 3.6, and most dependencies can be satisfie
 
 
 ### Releases
-When merging from develop (or hotfix branches) into release, ensure:
+When merging from aludhg dfa;jhgfd ;ohg adf;ogh dfoi develop (or hotfix branches) into release, ensure:
 
 * All references to the debugger are removed
 * All paths are relative and platform agnostic
