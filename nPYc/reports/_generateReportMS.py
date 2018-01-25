@@ -22,7 +22,7 @@ import re
 import shutil
 from ..__init__ import __version__ as version
 
-def _generateReportMS(msDataTrue, reportType, withExclusions=False, withArtifactualFiltering=None, output=None, msDataCorrected=None, pcaModel=None, batch_correction_window=11):
+def _generateReportMS(msDataTrue, reportType, withExclusions='Fail', withArtifactualFiltering=None, output=None, msDataCorrected=None, pcaModel=None, batch_correction_window=11):
 	"""
 	Summarise different aspects of an MS dataset
 
